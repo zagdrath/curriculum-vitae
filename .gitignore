@@ -25,3 +25,4 @@ build/
 *.toc
 *.xdv
 *.xml
+*.synctex.gz
